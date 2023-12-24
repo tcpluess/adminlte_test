@@ -1,0 +1,4 @@
+dhcp-host=BC:24:11:69:74:A7,192.168.10.6,dc
+dhcp-host=BC:24:11:D1:2A:6A,192.168.10.90,vpnhost
+dhcp-host=58:38:79:96:47:47,192.168.10.56,lp_imc300_1og
+dhcp-host=aa,aaaaaaaaa,aaa
